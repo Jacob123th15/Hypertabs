@@ -1,19 +1,4 @@
-<!-- Notice for idiots -->
-# NOTICE:
 
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
-
-<!--
-                                _     _                     _       _   _          _                               _    
-     /\                        | |   | |                   | |     | \ | |        | |                             | |   
-    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
-   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
-  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
- /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
-                                               __/ |                                                                    
-                                              |___/                                                                     
--->
-<!-- The font is called Big, if you are wondering -->
 <div align="center">
          
 <img src="https://socialify.git.ci/amethystnetwork-dev/Hypertabs/image?font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Famethystnetwork-dev%2FHypertabs%2Fmain%2Fstatic%2Ficon.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Hypertabs" width="640" height="320" />
